@@ -536,3 +536,59 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=com.genuine.leone
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" group-title="Zat OTT | Entertainment" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png",701 AXN
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" group-title="Zat OTT | Variety" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png",707 TLC
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" group-title="Zat OTT | Entertainment" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Lifetime.png",703 Lifetime
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+
+#EXTINF:-1 tvg-id="HITS" ch-number="706" tvg-name="HITS HD" group-title="Zat OTT | Entertainment" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",706 Hits 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NssgY79TONGNMWVzcbFYFw","kid":"H+kmhadYRNxUydrBJIAlEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
+
+#EXTINF:-1 tvg-id="702.astro" group-title="Zat OTT | Entertainment" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/524_144.png",175 HITS Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4307def6a29bec082f8c93f1f98e5910:a4d49bda8cd29ba2888c732b4e7d9d63
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
+
+#EXTINF:-1 tvg-id="CrimeInvestigation" group-title="Zat OTT | Variety" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CI_v1.png",Crime & Investigation HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+
+#EXTINF:-1 group-title="Zat OTT | Variety" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",181 AFN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+
+#EXTINF:-1 tvg-id="BBCLifestyle" ch-number="717" tvg-name="BBC Lifestyle" group-title="Zat OTT | Variety" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sS4fiUEpxRfciEW6ruvsig","kid":"9CkpLcdE8oQ1UwhWFXesEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
