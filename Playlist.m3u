@@ -36,7 +36,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 #EXTVLCOPT:http-user-agent=com.genuine.leone
-#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" group-title="Aneka | Melayu/Malaysia" group-logo="https://i.postimg.cc/qvYB1mSQ/2875-removebg-preview.png" tvg-logo="https://i.postimg.cc/y8gydygJ/3417-removebg-preview.png",Al-Hijrah CH114 (Astro Feed)
+#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" group-title="Zat OTT | Myfreeview" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/y8gydygJ/3417-removebg-preview.png",Al-Hijrah CH114 (Astro Feed)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
