@@ -592,3 +592,82 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sS4fiUEpxRfciEW6ruvsig","kid":"9CkpLcdE8oQ1UwhWFXesEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=com.genuine.leone
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
+
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTINF:-1 tvg-id="CH801" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA 
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-id="802" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png", ASTRO ARENA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
+#EXTINF:-1 tvg-id="814.astro" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png",809 Astro Sport Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
+
+#EXTINF:-1 tvg-id="824" tvg-name="Astro Cricket" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/NGNSnBPK/228432.png", Cricbuzz TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e}
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+#EXTINF:-1 tvg-id="820.astro" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",beIN Sports 1
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3}
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+#EXTINF:-1 tvg-id="821.astro" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",beIN Sports 2
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337}
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+#EXTINF:-1 tvg-id="822.astro" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",beIN Sports 3
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+
+#EXTINF:-1 tvg-id="826.astro" tvg-name="W-Sport" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png" ch-number="826",826 W-Sport HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nNXA0eVMIuA12I3Twd/ITA", "kid":"AQy7nPGgHq04Bwcw04vHEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports HD" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png",833 Premier Sports
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+
+#EXTINF:-1 tvg-id="822.astro" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" 818 Golf
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+
+#EXTINF:-1 tvg-id="810" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/RCf8CYbp/3645-removebg-preview.png",ASTRO GRANDSTAND  
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+
+#EXTINF:-1 tvg-id="814" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/26CqqM76/3660-removebg-preview.png",ASTRO FOOTBALL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTVLCOPT:http-user-agent=com.genuine.leone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name=""  group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/x80Q358n/228424.png",Sukan Plus (RTM Klik Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
