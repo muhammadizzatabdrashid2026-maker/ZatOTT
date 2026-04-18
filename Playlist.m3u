@@ -710,3 +710,124 @@ http://217.216.110.49:8000/epl2K9
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/28Msq3tj/2857-removebg-preview.png" tvg-id="AstroBadminton" ch-number="815" group-title="Aneka | Hot Channel" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
 http://217.216.110.49:8000/badmintonK9
+
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/BvYgNL6s/85913-removebg-preview.png",TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+https://tupai.kakiflix.com/TV3
+
+#EXTINF:-1 tvg-id="Sensasi" tvg-name="Sensasi" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/nc2Qv8rW/Unifi-Sensasi.png",Sensasi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
+https://tupai.kakiflix.com/Sensasi
+
+#EXTINF:-1 tvg-id="107.unifi" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=530",DidikTV KPM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
+https://tupai.kakiflix.com/Didik
+
+#EXTINF:-1 tvg-id="108.unifi" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9C66E114-6607-4EB2-9F11-DE0F25C161EE/0-16x9.png?width=530",8TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
+https://tupai.kakiflix.com/8TV
+
+#EXTINF:-1 tvg-id="109.unifi" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/01A5D01A-1DAE-4E0F-8003-0B570E9F474E/0-16x9.png?width=530",TV9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
+https://tupai.kakiflix.com/TV9
+
+#EXTINF:-1 tvg-id="113.unifi" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1CE8DFF2-DF3E-4EFD-8D01-3D261D0890DD/0-16x9.png?width=530",Salam HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
+https://tupai.kakiflix.com/Salam
+
+#EXTINF:-1 tvg-name="Animax" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/dQ2N76Rq/Animaxlogo-20160701-(1).png",Animax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
+https://tupai.kakiflix.com/Animax
+
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_307.png", SPOTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
+https://tupai.kakiflix.com/spoTV
+
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_308.png", SPOTV2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
+https://tupai.kakiflix.com/spoTV2
+
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN Sports 1" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",beIN Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+https://tupai.kakiflix.com/Bein1
+
+#EXTINF:-1 tvg-id="beIN2" tvg-name="beIN Sports 2" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+https://tupai.kakiflix.com/Bein2
+
+#EXTINF:-1 tvg-id="beIN3" tvg-name="beIN Sports 3" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+https://tupai.kakiflix.com/Bein3
+
+#EXTINF:-1 tvg-id="beIN4" tvg-name="beIN Sports 4" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/d0hJWmcb/278-144.png",beIN Sports 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
+https://tupai.kakiflix.com/Bein4
+
+#EXTINF:-1 tvg-id="118.unifi" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=530",Inspirasi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, body) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
+https://tupai.kakiflix.com/Inspirasi
+
+#EXTINF:-1 tvg-id="121.unifi" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://unifi.com.my/tv/sites/default/files/styles/webp/public/2023-03/unifi-streaming-apps-siar-logo.png.webp?itok=ujW0hL-f",Siar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JKzUn6iqalUy3QRbqx9T5A","kid":"VIn1jGStQNukccixwmk+Kg"}],"type":"temporary"}
+https://tupai.kakiflix.com/SIAR
+
+#EXTINF:-1 tvg-id="128.unifi" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=160&updatedTime=0&dt=Web", DEGUP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"whs2mRspkoqA3AoUa+6skA","kid":"oWI7dm5LSOuIzqKeHDCcxw"}],"type":"temporary"}
+https://tupai.kakiflix.com/DEGUP
+
+#EXTINF:-1 tvg-id="128.unifi" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/RZPBgqxp/219287.png",Dunia Sinema
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l1pIPfQiRV28KaHYPtbxVA","kid":"AaF2JXAeRzSwKqIshle9bw"}],"type":"temporary"}
+https://tupai.kakiflix.com/DuniaSin
+
+#EXTINF:-1 tvg-id="114.unifi" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F4935E21-02B4-4697-BEC4-671EB6034217/0-16x9.png?width=530",TV AlHijrah HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3665ce09fcb49229602d45d1d5be4d4:eb122760bbad018974689ce1372bce26
+https://tupai.kakiflix.com/TVAL
+
+#EXTINF:-1 tvg-id="141.unifi" group-title="Zat OTT | Unifi TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530",Pesona HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
+https://tupai.kakiflix.com/Pesona
