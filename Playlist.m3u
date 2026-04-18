@@ -851,3 +851,9 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTINF:-1 tvg-id="MNX" tvg-name="MNX" group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/CLbH4k37/240907.png",MNX HD
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Religion" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/1920px-Logo_of_the_TV_Alhijrah.svg.png",TV ALHIJRAH
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Religion" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/vmML4TDZ/241157.png",TV IKIM
+https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
