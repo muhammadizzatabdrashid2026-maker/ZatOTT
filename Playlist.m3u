@@ -869,16 +869,16 @@ http://fastopen.live:8080/MLS003/qZj4zbPNDn/118746
 http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
 
 #EXTINF:-1 tvg-id="HubPremier1.sg" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier01.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 1
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112231.m3u8
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8
 
 #EXTINF:-1 tvg-id="HubPremier2.sg" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier02.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 2
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112229.m3u8
+hhttps://hls.iill.top/api/Hub-Premier-2/index.m3u8
 
 #EXTINF:-1 tvg-id="HubPremier3.sg" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier03.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 3
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112228.m3u8
+https://hls.iill.top/api/Hub-Premier-3/index.m3u8
 
 #EXTINF:-1 tvg-id="HubPremier4.sg" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier04.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 4
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112227.m3u8
+https://hls.iill.top/api/Hub-Premier-4/index.m3u8
 
 #EXTINF:-1 tvg-id="HubPremier5.sg" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier05.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 5
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112226.m3u8
