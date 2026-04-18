@@ -1105,7 +1105,14 @@ https://stream.rcs.revma.com/z56xa78mtd3vv
 #EXTINF:-1 tvg-id="CatzFM" group-title="Zat OTT | Another Malaysian Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/63p49WBR/12772-removebg-preview.png",Catz Fm 
 https://s4.yesstreaming.net:7019/stream/1/
 
+#EXTINF:-1 group-title="Zat OTT | Japanese Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/nr251f4P/241511.png",TV Tokyo
+https://nl.utako.moe/TV_Tokyo/index.m3u8
 
+#EXTINF:-1 group-title="Zat OTT | Japanese Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/j2Mg7QKL/241513.png",TV Asahi
+https://living9.jpantv.live/jp7/playlist.m3u8?token=QA3APiYwbB
+
+#EXTINF:-1 group-title="Zat OTT | Japanese Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/rsZjmVCm/241515.png",Fuji TV
+https://living9.jpantv.live/jp6/playlist.m3u8?token=QA3APiYwbB
 
 
 
