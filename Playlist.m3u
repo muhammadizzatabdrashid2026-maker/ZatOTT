@@ -861,3 +861,251 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Zat OTT | Religion" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/dQj8frQr/241260.png",Al Quran Al Kareem TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="NowSports14k.hk" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Now Sports 1 4k
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/118746
+
+#EXTINF:-1 tvg-id="NowSportsPremier1.hk" tvg-logo="https://i.postimg.cc/7LKcmbVL/IMG-4153.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Now Sports Premier 1
+http://fastopen.live:8080/MLS003/qZj4zbPNDn/112200
+
+#EXTINF:-1 tvg-id="HubPremier1.sg" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier01.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 1
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112231.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier2.sg" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier02.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 2
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112229.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier3.sg" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier03.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 3
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112228.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier4.sg" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier04.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 4
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112227.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier5.sg" tvg-logo="https://api.letitgooooo.org/images/png/sg-hubpremier05.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 5
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112226.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier6.sg" tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042507768164_39.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 6
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112225.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier7.sg" tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 7
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112224.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier8.sg" tvg-logo="https://epg.pw/media/images/epg/2025/08/13/20250813042604656209_88.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 8
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112223.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier9.sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbuhtHIe9ibaD6FnRFjd4PTcqkK81jAxCC6g&s" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 9
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112222.m3u8
+
+#EXTINF:-1 tvg-id="HubPremier10.sg" tvg-logo="https://i.imgur.com/h1jaQqc.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Hub Premier 10
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112221.m3u8
+
+#EXTINF:-1 tvg-id="NowSports1.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Now Sports 1
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
+
+#EXTINF:-1 tvg-id="NowSports2.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Now Sports 2
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
+
+#EXTINF:-1 tvg-id="NowSports3.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Now Sports 3
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
+
+#EXTINF:-1 tvg-id="NowSports4.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Now Sports 4
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
+
+#EXTINF:-1 tvg-id="NowSports5.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Now Sports 5
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
+
+#EXTINF:-1 tvg-id="NowSports6.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Now Sports 6
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
+
+#EXTINF:-1 tvg-id="NowSports7.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Now Sports 7
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
+
+#EXTINF:-1 group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/mgpxyP18/241263.png",Goal Zone TV
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
+
+#EXTINF:-1 tvg-id="HITZ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hitz_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",HITZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c759f4bc157b00a7b1dba7873197fc10:96da0bbe83b8f54194e42428e1fd6632
+https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
+
+#EXTINF:-1 tvg-id="MY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MY_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",MY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=8f618c12955ac5c431f5f901451c9d10:433fa68d6ec980675c96bb5ae2e01789
+https://linearjitp-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
+
+#EXTINF:-1 tvg-id="LITE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lite_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",LITE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ab350491e05128235859f127225b10:b59d48e5da5e34a1d17bcb6e8cc36267
+https://linearjitp-playback.astro.com.my/dash-wv/linear/123/default_primary.mpd
+
+#EXTINF:-1 tvg-id="MIX" tvg-logo="http://linear-poster.astro.com.my/prod/logo/MIX_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",MIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14f020e638635a66792cc7955e4d2810:8e2be3777dd95fb09ce2a70cf099cf8a
+https://linearjitp-playback.astro.com.my/dash-wv/linear/122/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ERA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ERA_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",ERA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85294251c8aeb373689eaa0ea9587810:4d559fcc12052d9e7fce0f8f6592bba1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
+
+#EXTINF:-1 tvg-id="SINAR" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Sinar_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",SINAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7af3ec1f2db077ae6374a018cbb48510:9458ed76e85f1ad8aa7eefcdbd628908
+https://linearjitp-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
+
+#EXTINF:-1 tvg-id="MELODY" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Melody_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",MELODY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d34dc49701f9c22b9f20baabb27ad410:6df52c46b193522fe87420938e029759
+https://linearjitp-playback.astro.com.my/dash-wv/linear/132/default_primary.mpd
+
+#EXTINF:-1 tvg-id="RAAGA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Raaga_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",RAAGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d9ba6f62b14a5d5706b21007bc21310:058790fb88613e6a71028aafa2258403
+https://linearjitp-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ROCK" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Classic_Rock_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",SYOK CLASSIC ROCK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74377f9dea75453994f7f6f5edb08e10:a064d58fa49d67614b052ab9a92a375c
+https://linearjitp-playback.astro.com.my/dash-wv/linear/124/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GOLD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Gold_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",GOLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f92ecdf4cd1ac55bc8c788fa1958610:715c8401d7829c9a7c5d665922ca13f6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/125/default_primary.mpd
+
+#EXTINF:-1 tvg-id="OPUS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Opus_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",OPUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a14f9a14450a96032b106d4ee8181310:b0b97cca1f9e311a09d33265c85a20e8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/120/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GEGAR" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_2171_v3.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",GEGAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70b6a9d1c5f5d275accf0a8c51dbf710:a0feca3810b9227592bd893bfb9f1f89
+https://linearjitp-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
+
+#EXTINF:-1 tvg-id="INDIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_India_Beat_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",SYOK INDIA BEAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b4e873bc93eff959ba232e1fa016f10:3e84b173e8997210fd270b7029491a9e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_primary.mpd
+
+#EXTINF:-1 tvg-id="JAZZ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Jazz_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",SYOK JAZZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bbab67b1f95ae9a32db73a88c308110:b284563fcddeb078b5bfe0efb684ffa1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/128/default_primary.mpd
+
+#EXTINF:-1 tvg-id="OSAI" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Osai_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",SYOK OSAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=082e516398c5ea15d6b9cda572247c10:cb8b2f2190cd84b62e6876fcc6bf24bf
+https://linearjitp-playback.astro.com.my/dash-wv/linear/131/default_primary.mpd
+
+#EXTINF:-1 tvg-id="BAYU" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Bayu_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",SYOK BAYU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5515d4f22664e386c62f7cf2c166ab10:f72c380581aa12a016ea88789c679c67
+https://linearjitp-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
+
+#EXTINF:-1 tvg-id="SYOK KENYALANG" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Syok_Kenyalang_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",SYOK KENYALANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdd9690c43631eac67dbfb11a6d6a510:53bcece8d71ecbe7bac08a94927cf358
+https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_primary.mpd
+
+#EXTINF:-1 tvg-id="NASFM" tvg-logo="https://pictr.com/images/2025/01/20/xpGZi9.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",NAS FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae8c20070c706333ad13230f05411c10:9c0832a8dbc36d2ab5892600ea6960fd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_primary.mpd
+
+#EXTINF:-1 tvg-id="VFM" tvg-logo="https://pictr.com/images/2025/01/20/xpGaIu.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",V FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed4dc7b6e2225c45634e9d63272a9b10:57d4290607a9a3a163de07388fcdf58d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd
+
+#EXTINF:-1 tvg-id="WAIFM" tvg-logo="https://pictr.com/images/2025/01/20/xpGgkg.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",WAI FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bde4784bc64eb326169d11c10a0b1510:bc9df5e162c5692669a8ec6366c9e4db
+https://linearjitp-playback.astro.com.my/dash-wv/linear/137/default_primary.mpd
+
+#EXTINF:-1 tvg-id="TRAXXFM" tvg-logo="https://pictr.com/images/2025/01/20/xpGraX.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",TRAXX FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74c6ae20ff7e31ee2aa1812bc7931310:865a25aba8134164791b29793d7b97db
+https://linearjitp-playback.astro.com.my/dash-wv/linear/138/default_primary.mpd
+
+#EXTINF:-1 tvg-id="MINNALFM" tvg-logo="https://pictr.com/images/2025/01/20/xpGN88.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",MINNAL FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a2428702c66220ce105d5cba2033410:d2011e32b524a02e43978e1a066394bd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/139/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AIFM" tvg-logo="https://pictr.com/images/2025/01/20/xpGUFx.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",AI FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99d0060f4d3333be90b0cae6addb4310:2f61d66cfce12bcb056571510999f3bf
+https://linearjitp-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ASYIKFM" tvg-logo="https://pictr.com/images/2024/01/04/EXD2Gc.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",ASYIK FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba01b2f73c76432e649092767f107010:8c198e97119e46dad9a4d693f5a82aff
+https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
+
+#EXTINF:-1 tvg-id="ZAYAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Zayan_v1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",ZAYAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8366fd866e0ef521268b53446203610:8ac6d3ead461c5c1497ab25a8bd1f619
+https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
+
+#EXTINF:-1 tvg-id="GOXUAN" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo-goxuan_V1.png" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",GO XUAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee738a67776d147e95f95df27e626b10:ef1e7ce3e50a78788ce1831cea8e187d
+https://linearjitp-playback.astro.com.my/dash-wv/linear/143/default_primary.mpd
+
+#EXTINF:-1 tvg-id="SuriaFM" group-title="Zat OTT | Astro Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/cHRznNq4/9063-removebg-preview.png",Suria FM
+https://22283.live.streamtheworld.com/SURIA_FMAAC.aac?dist=triton-widget
+
+#EXTINF:-1 tvg-id="Best104" group-title="Zat OTT | Another Malaysian Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/best.png",Best 104 FM
+https://stream.rcs.revma.com/h34x4kgg9hhvv
+
+#EXTINF:-1 tvg-id="EightFM" group-title="Zat OTT | Audio+ Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/8-fm-kuala-lumpur.png",Eight FM
+https://stream-us.rcs.revma.com/qp0xrd9mtd3vv
+
+#EXTINF:-1 tvg-id="HotFM" group-title="Zat OTT | Audio+ Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/hot.png",Hot FM
+https://stream.rcs.revma.com/drakdf8mtd3vv
+
+#EXTINF:-1 tvg-id="FlyFM" group-title="Zat OTT | Audio+ Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/fly.png",Fly FM
+https://stream-us.rcs.revma.com/q17aka9mtd3vv
+
+#EXTINF:-1 tvg-id="ManisFM" group-title="Zat OTT | Audio+ Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/manis.png",Manis FM
+https://n11.rcs.revma.com/nzgauqq1v7zuv
+
+#EXTINF:-1 tvg-id="Kool101" group-title="Zat OTT | Audio+ Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/kool-101.png",Kool 101 FM
+https://stream-us.rcs.revma.com/3930238mtd3vv
+
+#EXTINF:-1 tvg-id="MolekFM" group-title="Zat OTT | Audio+ Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://cdn.instant.audio/images/logos/radioonline-my/molek.png",Molek FM
+https://stream.rcs.revma.com/z56xa78mtd3vv
+
+#EXTINF:-1 tvg-id="CatzFM" group-title="Zat OTT | Another Malaysian Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/63p49WBR/12772-removebg-preview.png",Catz Fm 
+https://s4.yesstreaming.net:7019/stream/1/
+
+
+
+
+
