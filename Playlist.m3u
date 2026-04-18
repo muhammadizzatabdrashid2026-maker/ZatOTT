@@ -1114,5 +1114,12 @@ https://living9.jpantv.live/jp7/playlist.m3u8?token=QA3APiYwbB
 #EXTINF:-1 group-title="Zat OTT | Japanese Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/rsZjmVCm/241515.png",Fuji TV
 https://living9.jpantv.live/jp6/playlist.m3u8?token=QA3APiYwbB
 
+#EXTINF:-1 group-title="Zat OTT | Japanese Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/Z54PSyhc/241527.png",Bs Asahi 
+https://nl.utako.moe/bsasahi/index.m3u8
 
+#EXTINF:-1 group-title="Zat OTT | Japanese Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/ZR2Ft7T3/241525.png",Bs Tv Tokyo 
+https://nl.utako.moe/bstvtokyo/index.m3u8
+
+#EXTINF:-1 group-title="Zat OTT | Japanese Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/tCPDyjZw/241523.png",BS Fuji
+https://living9.jpantv.live/jp27/playlist.m3u8?token=QA3APiYwbB
 
