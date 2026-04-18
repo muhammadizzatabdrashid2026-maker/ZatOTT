@@ -683,3 +683,30 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
 #EXTVLCOPT:http-user-agent=com.genuine.leone
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/28Msq3tj/2857-removebg-preview.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="Aneka | Hot Channel" tvg-logo="https://i.ibb.co/mC58vXXY/Astro-Ria-2024.png" ch-number="104",104 Ria HD (Not 24H)
+http://217.216.110.49:8000/riaK9
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/28Msq3tj/2857-removebg-preview.png" tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Aneka | Hot Channel" tvg-logo="https://i.ibb.co/NdBb6rQ8/Astro-Prima-2024.png" ch-number="105",105 Prima HD (Not 24H)
+http://217.216.110.49:8000/primaK9
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/28Msq3tj/2857-removebg-preview.png" tvg-id="108.astro" tvg-name="CITRA HD" group-title="Aneka | Hot Channel" tvg-logo="https://i.ibb.co/0NsR6fJ/Astro-Citra-2024.png" ch-number="108",108 Citra HD (Not 24H)
+http://217.216.110.49:8000/citraK9
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/28Msq3tj/2857-removebg-preview.png" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="Aneka | Hot Channel" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
+http://217.216.110.49:8000/ceriaK9
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/28Msq3tj/2857-removebg-preview.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Aneka | Hot Channel" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
+http://217.216.110.49:8000/bola1K9
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/28Msq3tj/2857-removebg-preview.png" tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Aneka | Hot Channel",804 Arena Bola 2 HD (Not 24H)
+http://217.216.110.49:8000/bola2K9
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/28Msq3tj/2857-removebg-preview.png" tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png" group-title="Aneka | Hot Channel",811 Premier League HD (Not 24H)
+http://217.216.110.49:8000/epl1K9
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/28Msq3tj/2857-removebg-preview.png" tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Aneka | Hot Channel" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
+http://217.216.110.49:8000/epl2K9
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/28Msq3tj/2857-removebg-preview.png" tvg-id="AstroBadminton" ch-number="815" group-title="Aneka | Hot Channel" tvg-logo="https://i.ibb.co/xqPpPGMS/Astro-Badminton-1-2024.png",815 Badminton HD (Not 24H)
+http://217.216.110.49:8000/badmintonK9
