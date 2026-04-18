@@ -599,8 +599,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 #EXTVLCOPT:http-user-agent=com.genuine.leone
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
 
-#EXTM3U
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
 #EXTINF:-1 tvg-id="CH801" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA 
@@ -857,3 +855,9 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_65df6a407ee011f
 
 #EXTINF:-1 tvg-id="" group-title="Zat OTT | Religion" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/vmML4TDZ/241157.png",TV IKIM
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Religion" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/3J3k0qT5/241246.png",Al Sunnah Al Nabawiyah TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Religion" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/dQj8frQr/241260.png",Al Quran Al Kareem TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
