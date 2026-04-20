@@ -1149,3 +1149,15 @@ https://stream.rcs.revma.com/z56xa78mtd3vv
 
 #EXTINF:-1 tvg-id="CatzFM.my" tvg-name="Catz Fm" group-title="Zat OTT | Another Malaysian Radio" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/63p49WBR/12772-removebg-preview.png",Catz Fm
 https://s4.yesstreaming.net:7019/stream/1/
+
+#EXTINF:-1 tvg-name="Al Bahjah TV" group-title="Zat OTT | Religion" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://buyayahya.org/wp-content/uploads/2018/01/AL-BAHJAH-TV-OK-3-1024x1024.png",Al Bahjah TV
+http://202.150.161.117:8000/play/AlBahjahTV
+
+#EXTINF:-1 tvg-name="Al Wafa Tarim TV" group-title="Zat OTT | Religion" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png",Al Wafa Tarim TV
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Iman TV" group-title="Zat OTT | Religion" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/28/Logo_Al-Iman_TV.png",Al Iman TV
+https://tv.aliman.id/aliman/live.m3u8
+
+#EXTINF:-1 tvg-name="MDTV" group-title="Zat OTT | Indonesia Digital" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/1280px-MDTV_logo.svg.png",MDTV
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
