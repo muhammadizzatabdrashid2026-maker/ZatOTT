@@ -1200,3 +1200,12 @@ https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
 #EXTVLCOPT:http-referer=https://tulnit.com/
 https://anet.keralive.workers.dev/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa_us_https/3c6198a7-a83f-4774-bbcd-1086756c866e/2.m3u8?hdntl=exp=1776757110~acl=%2f*~data=hdntl~hmac=fa6ec54301514b710a3a84111a2292faf5c807b0747c29ce8d7a4f0ef0d2969e
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzzw0hbc/243464.png" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" group-title="Zat OTT | Movies",Star Movies HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:18:18:3D&stream=373304&extension=ts&play_token=ciHoqkD84h
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8kf23mj/243466.png" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" group-title="Zat OTT | Movies",Star Movies Selects HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:18:18:3D&stream=373320&extension=ts&play_token=Q8T1h2DuEg
+
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/214x0-icon.png" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" group-title="Zat OTT | Movies",Sony Pix HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:18:18:3D&stream=943971&extension=ts&play_token=OQMRPjNpGB
