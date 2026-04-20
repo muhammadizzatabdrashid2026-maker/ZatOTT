@@ -1195,3 +1195,8 @@ https://cc-o7iz6ey4x2e4g.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTHTTP:{"Referer":"https://tulnit.com/","User-Agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"}
 https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN4600019L1&ads.ssai_vendor=SSSLIVE&pb_type=pb-y4hwyihvksxae_cloudfront
+
+#EXTINF:-1 group-title="Zat OTT | JioStar Digital : Telugu Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Star_Maa_HD_2020.png/revision/latest/scale-to-width-down/250?cb=20211103054852",Star Maa HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
+#EXTVLCOPT:http-referer=https://tulnit.com/
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa_us_https/index.m3u8
