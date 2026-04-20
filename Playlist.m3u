@@ -1169,3 +1169,29 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fpct7N1/NTV.jpg" group-title="Zat OTT | Indonesia Digital" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzbHQy04/214869.png" group-title="Zat OTT | Korean/Japan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",K Drama Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://d3mlyypr4o0lnu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ed5jofslru32o/live/newid_271_5a422a88/samsung_tvplus/index.m3u8?apikey=b97c7a7d0c82424bb607e141ef215779&auth=5b83b877-978e6ce2-e97c8072-9c47db3d&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD4100011RE
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvZnZnL5/214879.png" group-title="Zat OTT | Korean/Japan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",New Korean Movies & Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?ads.xumo_channelId=99991386
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15pZQPdV/214887.png" group-title="Zat OTT | Korean/Japan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",K-POP by CJ ENM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnbQh6Cx/214889.png" group-title="Zat OTT | Korean/Japan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",K-Content by CJ ENM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://cc-o7iz6ey4x2e4g.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o7iz6ey4x2e4g/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0RVshBq/223870.png" group-title="Zat OTT | Korean/Japan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Series K BY MBC
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTHTTP:{"Referer":"https://tulnit.com/","User-Agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36"}
+https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN4600019L1&ads.ssai_vendor=SSSLIVE&pb_type=pb-y4hwyihvksxae_cloudfront
