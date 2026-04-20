@@ -1274,7 +1274,7 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 
 #EXTINF:-1 tvg-name="Dragon TV" tvg-logo="https://live.fanmingming.cn/tv/Dragon TV.png" group-title="Zat OTT | China TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Dragon TV
-http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+http://74.91.26.218:82/live/dfwshd.m3u8
 
 #EXTINF:-1 tvg-name="Jiangsu TV" tvg-logo="https://live.fanmingming.cn/tv/Jiangsu TV.png" group-title="Zat OTT | China TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Jiangsu TV
 http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
