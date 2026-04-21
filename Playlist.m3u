@@ -1331,7 +1331,7 @@ http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
 https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
 
-#EXTINF:-1 tvg-id="Ch 8"" group-title="Zat OTT | SingaporeTV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://aqfadtv.xyz/logos/Channel8.png",Channel 8 (A)
+#EXTINF:-1 tvg-id="Ch 8"" group-title="Zat OTT | Singapore TV" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://aqfadtv.xyz/logos/Channel8.png",Channel 8 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b1efb9b83f94e589f2be1c27482672b:74c937b533a2ba10e51b90abe159af7b
