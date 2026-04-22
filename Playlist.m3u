@@ -1358,3 +1358,45 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=7c9082552ffa4a87947af9dd4210a5ad:139079e69feb564bfa7283cc1c3cd215
 https://tglmp01.akamaized.net/out/v1/c48d1a7fbf964a6babe98743cb91424a/manifest.mpd
 
+#EXTINF:-1 group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png"
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908595&extension=ts
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Zat OTT | Indonesia Digital" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png" group-title="Zat OTT | Indonesia Digital" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Zat OTT | Fifa World Cup 2026" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="Zat OTT | Fifa World Cup 2026" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", TVRI Nasional
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="Zat OTT | Fifa World Cup 2026" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://ik.imagekit.io/goodid/gnfi/uploads/articles/large-opening-tvri-world-6981f018fc32d02858d280ae62d718d7.jpg?tr=w-730,h-486,fo-center" group-title="Zat OTT | Fifa World Cup 2026" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",TVRI World
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 tvg-name="TVRI Nasional" tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="Zat OTT | Indonesia Digital" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", TVRI Nasional
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1  tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="Zat OTT | Indonesia Digital" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://ik.imagekit.io/goodid/gnfi/uploads/articles/large-opening-tvri-world-6981f018fc32d02858d280ae62d718d7.jpg?tr=w-730,h-486,fo-center" group-title="Zat OTT | Indonesia Digital" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",TVRI World
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
