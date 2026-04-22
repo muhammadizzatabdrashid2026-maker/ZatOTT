@@ -1358,7 +1358,7 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=7c9082552ffa4a87947af9dd4210a5ad:139079e69feb564bfa7283cc1c3cd215
 https://tglmp01.akamaized.net/out/v1/c48d1a7fbf964a6babe98743cb91424a/manifest.mpd
 
-#EXTINF:-1 group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png"
+#EXTINF:-1 group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png",Z Thirai HD
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908595&extension=ts
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://object-streamo.emonaja.com/img/antv.png" group-title="Zat OTT | Indonesia Digital" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", ANTV
@@ -1369,7 +1369,7 @@ http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Zat OTT | Fifa World Cup 2026" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", Trans TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png" group-title="Zat OTT | Indonesia Digital" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 
