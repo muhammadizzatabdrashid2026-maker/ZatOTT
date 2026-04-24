@@ -1611,3 +1611,8 @@ https://m3uplay.com/leo/live.m3u8?id=3359&format=.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=3201
 https://m3uplay.com/leo/live.m3u8?id=3201&format=.m3u8
+
+#EXTINF:-1 type-name="" type-genre="Action/Comedy" type-title="Zat OTT | VOD : Animation (2025)" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-papa-zola-movie-2025-lk21.jpg", Papa Zola The Movie (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Mhk5L2gDGC0jfBojNVkzdXBIe3toLjIDBh0oFBwCNDp1Si0odg
+https://cloud.hownetwork.xyz/zzz/Mhk5L2gDGC0jfBojNVkzdXBIe3toLjIDBh0oFBwCNDp1Si0odg/40/480.m3u8
