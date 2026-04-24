@@ -1616,3 +1616,13 @@ https://m3uplay.com/leo/live.m3u8?id=3201&format=.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=Mhk5L2gDGC0jfBojNVkzdXBIe3toLjIDBh0oFBwCNDp1Si0odg
 https://cloud.hownetwork.xyz/zzz/Mhk5L2gDGC0jfBojNVkzdXBIe3toLjIDBh0oFBwCNDp1Si0odg/40/480.m3u8
+
+#EXTINF:-1 type-name="" type-genre="Action/Comedy" group-title="Zat OTT | VOD : Animation (2026)" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/04/film-legend-aang-last-airbender-2026-lk21.jpg", The Legend of Aang: The Last Airbender (2026)
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303)
+https://cloud.hownetwork.xyz/zzz/Lh0uKysdWiAjPxBhL1ElLG8ZIDwnHBklJyNafnMCYHUVPQsKCSYvHiAzRyklUjQ8/40/480.m3u8
+
+#EXTINF:-1 type-name="" type-genre="Action/Comedy" type-title="Zat OTT | VOD : English (2025)" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://static-jpg.lk21.party/wp-content/uploads/2026/03/film-war-machine-2026-lk21.jpg", War Machine (2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
+https://cloud.hownetwork.xyz/zzz/NRk7YygYFCkrPxJhcQBkbm8vDAwBNSgZHWFEe3UAb2B1/39/480.m3u8
