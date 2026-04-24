@@ -1561,3 +1561,33 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
 #EXTINF:-1 tvg-id="" group-title="Zat OTT | Zee5" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest/scale-to-width-down/300?cb=20231217022312",AndPicture
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+
+#EXTINF:-1 tvg-name="NH Tamil Gold" tvg-logo="https://i.postimg.cc/hj2RfZv0/249986.png" group-title="Zat OTT | Tamil Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",NH Tamil Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://tamilgold.keralive.workers.dev/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/3N6RDxND/250027.png" group-title="Zat OTT | Tamil Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Raj TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=707
+https://m3uplay.com/leo/live.m3u8?id=707&format=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/52YV0WhW/250098.png" group-title="Zat OTT | Tamil Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Raj Digital Plus 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=683
+https://m3uplay.com/leo/live.m3u8?id=683&format=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/mDTJ7v5w/250106.png" group-title="Zat OTT | Tamil Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Jaya TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=419
+https://m3uplay.com/leo/live.m3u8?id=419&format=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Zat OTT | Tamil Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Jaya Movies HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=417
+https://m3uplay.com/leo/live.m3u8?id=417&format=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/T2zS95SH/250126.png" group-title="Zat OTT | Tamil Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Jaya Max HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=420
+https://m3uplay.com/leo/live.m3u8?id=420&format=.m3u8
