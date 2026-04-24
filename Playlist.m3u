@@ -1416,3 +1416,50 @@ http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
 #EXTINF:-1 group-title="Zat OTT | HBO GROUP" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
+
+#EXTINF:-1 group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/C5px4YDz/226903.png", Disney XD 
+http://84.17.50.102/disneyxd/index.m3u8
+
+#EXTINF:-1 group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/qRL51x6C/226905.png", Disney Jr East 
+http://84.17.50.102/disneyjunior/index.m3u8
+
+#EXTINF:-1 group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/LXXtMt0t/226907.png", Disney Channel East 
+http://89.105.221.127/Disney/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://i.postimg.cc/VN6fBYRQ/249618.png" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", Nicktoons East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+http://41.205.93.154/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/250px-Boomerang_2014_logo.svg.png" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Boomerang East
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/Kjw8nb4d/7134-removebg-preview.png",Spacetoon Arabic (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC3USA.us@SD" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.imgur.com/PVt8OPN.png",MBC 3 USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-1 tvg-name="Animax NA" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/Bn76RHrq/animax-(1).png", Animax NA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.7632.159 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://webchnl.com/
+https://haus.webchnl.com/memfs/69a47533-fa93-4a12-b9a1-666146898981.m3u8
+
+#EXTINF:-1 tvg-id="kids_station" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/4dd1s6yG/maxresdefault-(5).png", Kids Station TV
+https://nl.utako.moe/kids_station/index.m3u8
+
+#EXTINF:-1 tvg-id="animax" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/KzPmcMHV/Animaxlogo-20160701-(2).png",Animax Japan 
+https://nl.utako.moe/Animax/index.m3u8
+
+#EXTINF:-1 tvg-id="animax" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/0j9pvKnZ/toonbox-(1).png", Toonbox 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.7632.159 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://webchnl.com/
+https://rhine.webchnl.live/memfs/f4a9ef8b-521a-432e-87bf-c2bcebe9405a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/SNC2C2tR/download-2023-03-17-T214110-590.jpg", Toonami AfterMath East (Cartoon Network+Toonami)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/SNC2C2tR/download-2023-03-17-T214110-590.jpg", Toonami AfterMath Pasific (Cartoon Network+Boomerang)
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonnetwork.mv" tvg-name="Cartoon Network US" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/Ls5G58nR/146721.png", Cartoon Network East
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
