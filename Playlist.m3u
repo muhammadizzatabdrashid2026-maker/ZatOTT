@@ -1591,3 +1591,23 @@ https://m3uplay.com/leo/live.m3u8?id=417&format=.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=420
 https://m3uplay.com/leo/live.m3u8?id=420&format=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/YCdjY70q/250164.png" group-title="Zat OTT | Tamil Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Roja TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=3409
+https://m3uplay.com/leo/live.m3u8?id=3409&format=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.postimg.cc/8CL3xpvk/250166.png" group-title="Zat OTT | Tamil Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Roja Movies 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=3417
+https://m3uplay.com/leo/live.m3u8?id=3417&format=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7df1e075b1372a4adb1064f4d6f134d4.png" group-title="Zat OTT | Tamil Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Sana Plus HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=3359
+https://m3uplay.com/leo/live.m3u8?id=3359&format=.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/39cd7856762f55e3b721868ba8362f80.png" group-title="Zat OTT | Tamil Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",Sana TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m3uplay.com/leo/watch?id=3201
+https://m3uplay.com/leo/live.m3u8?id=3201&format=.m3u8
