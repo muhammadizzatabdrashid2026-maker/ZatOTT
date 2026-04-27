@@ -1647,3 +1647,61 @@ https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://swimrewind.com/logo",Swim Rewind
 https://swimrewind.com/hls/stream.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTINF:-1 group-title="Zat OTT | Mana-mana Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png"  tvg-logo="https://i.postimg.cc/P59JLz7z/99726-removebg-preview.png",SpoTv Now
+https://slive.mana2.my/SpotvNow/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTINF:-1 tvg-id="KCM" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cbaa299e86c19437494d87d1e26ff4bb.png" group-title="Zat OTT | Mana-mana Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png",KCM
+https://slive.mana2.my/Kcm/index.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTINF:-1 tvg-id="RockEntertainment.sg" group-title="Zat OTT | Mana-mana Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/world-asia/rock-entertainment-asi.png",ROCK Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://slive.mana2.my/RockEntertainment/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Mana-mana Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,Aniplus English
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/AniPlus/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTINF:-1 tvg-id="461.mytv" group-title="Zat OTT | Mana-mana Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/cnsmrs.png", ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
+https://slive.mana2.my/OneHD/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/results.php?keyid=3dd653fc7aa1e3075b7f0233620df68f&key=8573791fa55bff03a3094ff559fc1407
+#EXTINF:-1 group-title="Zat OTT | Mana-mana Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-id="474" ch-number="474" tvg-logo="https://playtv.unifi.com.my:7218/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png",ROCK Action
+https://slive.mana2.my/RockAction/index.mpd
+
+#EXTINF:-1 tvg-id="DramaChannel" group-title="Zat OTT | Mana-mana Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" ch-number="112" tvg-logo="https://aqfadtv.xyz/logos/Drama Channel.png",Drama Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/DramaChannel/index.mpd
+
+#EXTINF:-1 tvg-id="ZooMoo" group-title="Zat OTT | Mana-mana Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://aqfadtv.xyz/logos/ZooMoo.png",ZooMoo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/ZooMoo/index.mpd
+
+#EXTINF:-1 tvg-id="GlobalTrekker" group-title="Zat OTT | Mana-mana Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png",Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/GlobalTrekker/index.mpd
+
+#EXTINF:-1 tvg-id="Euronews" group-title="Zat OTT | Mana-mana Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://aqfadtv.xyz/logos/Euronews.png",Euronews
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/EuroNews/index.mpd
