@@ -1741,26 +1741,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/crenwml9jf/o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
-#EXTINF:-1 group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/SRsHLcGW/22832-removebg-preview.png",TNT SPORTS 1 (MPD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/ZYsDdfgK/tntsports2.png",TNT Sports 2 (MPD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/zDKxMtyK/22853-removebg-preview.png",TNT Sports 3 (MPD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/K8Xsj6dy/22834-removebg-preview.png",TNT SPORTS 4 (MPD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
 #EXTINF:-1 tvg-id="810" group-title="Zat OTT | Fifa World Cup 2026" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/RCf8CYbp/3645-removebg-preview.png",ASTRO GRANDSTAND  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
@@ -1781,3 +1761,59 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Zat OTT | Fifa World Cup 2026" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://www.cricuspl.com/wp-content/uploads/2024/11/dd-sports-english-hd-png_00000.png",DD SPORTS 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 group-title="Zat OTT | Fifa World Cup 2026" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 1 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="Zat OTT | Fifa World Cup 2026" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-id="TNTSports2.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 2 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="Zat OTT | Fifa World Cup 2026" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-id="TNTSports3.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 3 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="Zat OTT | Fifa World Cup 2026" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-id="TNTSports4.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 4 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-id="TNTSports1.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 1 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-id="TNTSports2.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 2 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-id="TNTSports3.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 3 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-id="TNTSports4.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT SPORTS 4 🇬🇧
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
