@@ -1706,25 +1706,35 @@ https://slive.mana2.my/GlobalTrekker/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/EuroNews/index.mpd
 
-#EXTINF:-1 tvg-name="TSN 1" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png",TSN 1
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-name="TSN 2" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png",TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://live-pv-ta.amazonfastly-edge.com/sin-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://i.postimg.cc/TPpBjkT5/263287.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", TSN 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
-#EXTINF:-1 tvg-name="TSN 3" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png",TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
+#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn3.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", TSN 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 
-#EXTINF: -1 tvg-id="TSN 4" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.ibb.co/hRkZbjhQ/Picsart-25-09-02-16-05-35-691.png", TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
-https://live-pv-ta.amazonfastly-edge.com/sin-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn4.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", TSN 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn5.png" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png", TSN 5
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport 1" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/8PSX6Tqh/21440-removebg-preview.png" ch-number="401",Eurosport 1 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
