@@ -609,11 +609,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTVLCOPT:http-user-agent=com.genuine.leone
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
-#EXTINF:-1 tvg-id="814.astro" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png",809 Astro Sport Plus
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+#EXTINF:-1 tvg-name="Astro Sports Plus" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Astro_Sports_Plus_%282024%29.png", Astro Sports Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
 #EXTVLCOPT:http-user-agent=com.genuine.leone
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default_ott.mpd
 
 #EXTINF:-1 tvg-id="824" tvg-name="Astro Cricket" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/NGNSnBPK/228432.png", Cricbuzz TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
