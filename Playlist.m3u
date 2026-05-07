@@ -1960,3 +1960,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis HD" tvg-id="AstroOasis" group-title="Zat OTT | Religion" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.ibb.co/V05NR1rn/Astro-Oasis-2024.png",106 Oasis
 #EXTVLCOPT:http-user-agent=com.genuine.leone
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+
+#EXTINF:-1 tvg-id="SonyPixHD" group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://medianet.mv/media/channel/214x0-icon.png", Sony PIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://b4uplay.com/sliv/stream.m3u8?id=1000009258&e=.m3u8
