@@ -1966,3 +1966,23 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTVLCOPT:http-referrer=https://b4uplay.com/sliv/stream.php?c=1000009258
 https://b4uplay.com/sliv/stream.m3u8?id=1000009258&e=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F619ac4cb-f585-4818-a7ef-342ec3c20544%2FMIRAMAX_HORIZONTAL_DEFAULT_ARTWORK_-_Gabe_Evans.jpg", Miramax Movies Channel
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0f26179eb1225698ab79961ba4e04c41/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbb5d406c1a424f1dac841e04d478415e%2Fposter%2F16_9%2FNone%2F1738348490906_1738348141142_UniversalMovies_1920x1080.jpg/presets/29eb2b5a1e673afec27e5a058a577573", Universal Movies 
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814575/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814575&ads.xumo_streamId=88814575&declaredCC1Language=en&ads.caid=RottenTomatoes&ads.csid=tcl2_us_rottentomatoesrttv_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Talk%2520Show&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoes&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoes&ads.xumo_channelName=RottenTomatoes&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw464_sh261_sx96_sy43_sr16x9_nu2/picture/original/2024/07/sony-one-action-hits-sender-logo-409962.png", Sony One Action Hits UK
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw544_sh306_sx87_sy7_sr16x9_nu2/picture/original/2024/07/sony-one-comedy-hits-sender-logo-409963.png", Sony One Comedy Hits UK 
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw464_sh261_sx88_sy49_sr16x9_nu2/picture/original/2024/07/sony-one-thriller-tv-409960.png", Sony One Thriller TV UK 
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://stmify.com/wp-content/uploads/2024/08/24-s.webp", Sony One Comedy TV UK 
+https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://stmify.com/wp-content/uploads/2024/08/33-s.webp", Sony One Faves UK 
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
