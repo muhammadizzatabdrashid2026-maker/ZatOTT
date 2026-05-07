@@ -1962,6 +1962,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="SonyPixHD" group-title="Zat OTT | Movies" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://medianet.mv/media/channel/214x0-icon.png", Sony PIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tulnit.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; RMX5303 Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.7632.120 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://b4uplay.com/sliv/stream.php?c=1000009258
 https://b4uplay.com/sliv/stream.m3u8?id=1000009258&e=.m3u8
+
