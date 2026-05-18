@@ -2447,10 +2447,3 @@ https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
 #EXTINF:-1 tvg-id="TheAmazingRace.us@SD" group-title="Zat OTT | Pluto TV | United States" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.imgur.com/5yzPhRo.png",The Amazing Race
 https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="Eurosport.id" tvg-name="Eurosport" tvg-logo="https://mimipipi22.github.io/logo/sports/eurosports.jpg" group-title="Zat OTT | Another Sports" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" ,EUROSPORT
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
