@@ -648,11 +648,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 #EXTVLCOPT:http-user-agent=com.genuine.leone
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
-#EXTINF:-1 tvg-id="810" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/RCf8CYbp/3645-removebg-preview.png",ASTRO GRANDSTAND  
+#EXTINF:-1 tvg-id="810" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/RCf8CYbp/3645-removebg-preview.png",ASTRO GRANDSTAND (A)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #EXTVLCOPT:http-user-agent=com.genuine.leone
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+
+#EXTINF:-1 tvg-id="810" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/RCf8CYbp/3645-removebg-preview.png",ASTRO GRANDSTAND (B)
+https://uutvs.cc/46b9gmvm/6790
 
 #EXTINF:-1 tvg-id="814" group-title="Zat OTT | Sports/Sukan" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/26CqqM76/3660-removebg-preview.png",ASTRO FOOTBALL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
