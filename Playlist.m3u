@@ -2445,3 +2445,12 @@ https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
 #EXTINF:-1 tvg-id="TheAmazingRace.us@SD" group-title="Zat OTT | Pluto TV | United States" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.imgur.com/5yzPhRo.png",The Amazing Race
 https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
 
+#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="Zat OTT | VOD : English  (2026)" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/ZRBkBjnm/Lee-Cronin-s-The-Mummy.jpg", Lee Cronin's The Mummy (2026)
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cloud.hownetwork.xyz/zzz/Lh0sYyYLGC8rPwRhLkU7NTtVe353T1oWBxMzABxoCT11Tyh8cxoW/41/480.m3u8?t=357a49b8a2de99b32947970328fa1283
+
+#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="Zat OTT | VOD : Thailand  (2026)" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/RhdTMxmt/film-panor-2-2026-lk21.jpg", Panor 2 (2026)
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
+https://cloud.hownetwork.xyz/zzz/MhknITdURWxwYUV6bmcTGgY0FhYaTkN3JDRPLiE/41/480.m3u8?t=7c7ec6b5563cdd9c397c9c09503d22e9
