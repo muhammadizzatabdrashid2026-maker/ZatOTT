@@ -2422,3 +2422,27 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3dcfbec0e7146928baa55210bf2cb62f":"bc85f74f815d9be5ae1dd6defaa05135"}
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#EXTINF:-1 tvg-id="CSI.us@SD" group-title="Zat OTT | Pluto TV | United States" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.imgur.com/xLLNEfA.png" Pluto TV | CSI Series 
+https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Pluto TV | United States" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/02B0ML5h/282083.png",Pluto TV | Criminal Minds
+https://jmp2.uk/plu-65653817c917a5000844bc30.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Pluto TV | United States" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/bNx28WDn/images-2026-05-18T195504-988.jpg", Pluto TV | NCIS : Los Angeles
+https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Pluto TV | United States" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png"  tvg-logo="https://i.postimg.cc/YqXjpWff/282109.png",Pluto TV | CSI: Crime Scene Investigation
+https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Pluto TV | United States" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png"  tvg-logo="https://i.postimg.cc/QCYsrpGj/CSIMiami-PLUTO-Channel-1080x1080-Hero-Square-9s7vvw8q.jpg",Pluto TV | CSI: Miami
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Zat OTT | Pluto TV | United States" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/W34Hcx20/282112.png",Pluto TV | Survivor
+https://jmp2.uk/plu-6874ac742704ca31d815b8ed.m3u8
+
+#EXTINF:-1 tvg-id="TheAddamsFamily.us@SD" group-title="Zat OTT | Pluto TV | United States" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.imgur.com/Bl8X7EW.png",The Addams Family
+https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
+
+#EXTINF:-1 tvg-id="TheAmazingRace.us@SD" group-title="Zat OTT | Pluto TV | United States" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.imgur.com/5yzPhRo.png",The Amazing Race
+https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
