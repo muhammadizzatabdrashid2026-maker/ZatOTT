@@ -2457,3 +2457,9 @@ https://cloud.hownetwork.xyz/zzz/Lh0sYyYLGC8rPwRhLkU7NTtVe353T1oWBxMzABxoCT11Tyh
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.143 Mobile Safari/537.36
 https://cloud.hownetwork.xyz/zzz/MhknITdURWxwYUV6bmcTGgY0FhYaTkN3JDRPLiE/41/480.m3u8?t=7c7ec6b5563cdd9c397c9c09503d22e9
+
+#EXTINF:-1 group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/x1KYp5Vx/282420.png", Thunderball TV
+https://watch.mistweather.com/hls/thunderball/playlist.m3u8
+
+#EXTINF:-1 group-title="Zat OTT | Kids" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://static.wikitide.net/indietvwiki/thumb/2/2e/MagicalV3logo.png/600px-MagicalV3logo.png", Magical TV 
+https://watch.mistweather.com/hls/magicaltv/playlist.m3u8
