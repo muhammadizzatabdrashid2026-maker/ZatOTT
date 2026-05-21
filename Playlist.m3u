@@ -2487,3 +2487,12 @@ https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+#EXTINF:-1 group-title="Zat OTT | Tamil Channel" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.postimg.cc/T38Vw1Wg/285650.png",Surya Digital HD 
+http://suryadigital.sscloud7.in/live/suryadigital/index.mpd
+
+#EXTINF:-1 tvg-id="SalamTV.id@SD" group-title="Zat OTT | Religiom" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://i.imgur.com/00Ifzgo.png",Salam TV 
+https://salamtv.siar.us/live/salamtv.m3u8
+
+#EXTINF:-1 tvg-id="RinjaniTV.id@SD" group-title="Zat OTT | Religion" group-logo="https://i.postimg.cc/nz4qxm4P/239188.png" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
